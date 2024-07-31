@@ -1,0 +1,25 @@
+{
+    "format-version": 0,
+    "time": 1720064143,
+    "files": [
+        {
+            "load_address": 66048,
+            "version_MCUBOOT": "0.0.0+0",
+            "type": "application",
+            "board": "nrf52840dk_nrf52840",
+            "soc": "nRF52840_QIAA",
+            "size": 317647,
+            "file": "app_update.bin",
+            "modtime": 1720064141
+        }
+    ],
+    "name": "main_program",
+    "firmware": {
+        "zephyr": {
+            "revision": "b05b8ad63acf30e08a570ce553831a06db27a2e0-dirty"
+        },
+        "nrf": {
+            "revision": "126fad0e2e5cbe5b965a45efc6a5e31f40d6020c"
+        }
+    }
+}

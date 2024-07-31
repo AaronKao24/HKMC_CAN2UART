@@ -1,0 +1,31 @@
+modules/hal_nordic/nrfx/CMakeFiles/modules__hal_nordic__nrfx.dir/C_/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52840.c.obj: \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52840.c \
+ C:/ncs/v1.9.1/FIT/HKMC_DEMO_CanToUart/main_program/build_nrf52840dk_nrf52840/zephyr/include/generated/autoconf.h \
+ C:/ncs/v1.9.1/zephyr/include/toolchain/zephyr_stdint.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52.c \
+ C:/ncs/v1.9.1/zephyr/lib/libc/newlib/include/stdint.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\newlib-nano\newlib.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\_newlib_version.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\_stdint.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\machine\_default_types.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\features.h \
+ c:\ncs\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stdint.h \
+ c:\ncs\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stdint-gcc.h \
+ c:\ncs\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stdbool.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52840.h \
+ C:/ncs/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/core_cm4.h \
+ C:/ncs/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/cmsis_version.h \
+ C:/ncs/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/cmsis_compiler.h \
+ C:/ncs/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/cmsis_gcc.h \
+ C:/ncs/v1.9.1/modules/hal/cmsis/CMSIS/Core/Include/mpu_armv7.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52840.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52840_bitfields.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf51_to_nrf52840.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52_to_nrf52840.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/compiler_abstraction.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf_peripherals.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52840_peripherals.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/nrf52_erratas.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52.h \
+ C:/ncs/v1.9.1/modules/hal/nordic/nrfx/mdk/system_nrf52_approtect.h

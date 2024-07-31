@@ -1,0 +1,33 @@
+zephyr/CMakeFiles/zephyr.dir/lib/os/timeutil.c.obj: \
+ C:/ncs/v1.9.1/zephyr/lib/os/timeutil.c \
+ C:/ncs/v1.9.1/FIT/HKMC_DEMO_CanToUart/main_program/build_nrf52840dk_nrf52840/zephyr/include/generated/autoconf.h \
+ C:/ncs/v1.9.1/zephyr/include/toolchain/zephyr_stdint.h \
+ C:/ncs/v1.9.1/zephyr/include/zephyr/types.h \
+ c:\ncs\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stddef.h \
+ C:/ncs/v1.9.1/zephyr/lib/libc/newlib/include/stdint.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\newlib-nano\newlib.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\_newlib_version.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\_stdint.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\machine\_default_types.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\features.h \
+ c:\ncs\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stdint.h \
+ c:\ncs\v1.9.1\toolchain\opt\lib\gcc\arm-none-eabi\9.2.1\include\stdint-gcc.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\errno.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\errno.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\reent.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\_ansi.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\config.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\machine\ieeefp.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\_types.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\machine\_types.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\lock.h \
+ C:/ncs/v1.9.1/zephyr/include/sys/timeutil.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\time.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\_ansi.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\cdefs.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\machine\time.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\types.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\_pthreadtypes.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\machine\types.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\timespec.h \
+ c:\ncs\v1.9.1\toolchain\opt\arm-none-eabi\include\sys\_timespec.h

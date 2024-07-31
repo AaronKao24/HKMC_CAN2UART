@@ -1,0 +1,8 @@
+add_custom_target(mcuboot_shared_property_target)
+set_property(TARGET mcuboot_shared_property_target  PROPERTY KERNEL_HEX_NAME;zephyr.hex)
+set_property(TARGET mcuboot_shared_property_target  PROPERTY ZEPHYR_BINARY_DIR;C:/ncs/v1.9.1/FIT/HKMC_DEMO_CanToUart/main_program/build_nrf52840dk_nrf52840/mcuboot/zephyr)
+set_property(TARGET mcuboot_shared_property_target  PROPERTY KERNEL_ELF_NAME;zephyr.elf)
+set_property(TARGET mcuboot_shared_property_target  PROPERTY BUILD_BYPRODUCTS;C:/ncs/v1.9.1/FIT/HKMC_DEMO_CanToUart/main_program/build_nrf52840dk_nrf52840/mcuboot/zephyr/zephyr.hex;C:/ncs/v1.9.1/FIT/HKMC_DEMO_CanToUart/main_program/build_nrf52840dk_nrf52840/mcuboot/zephyr/zephyr.elf)
+set_property(TARGET mcuboot_shared_property_target  PROPERTY SIGNATURE_KEY_FILE;root-ec-p256.pem)
+set_property(TARGET mcuboot_shared_property_target APPEND PROPERTY PM_YML_DEP_FILES;C:/ncs/v1.9.1/bootloader/mcuboot/boot/zephyr/pm.yml)
+set_property(TARGET mcuboot_shared_property_target APPEND PROPERTY PM_YML_FILES;C:/ncs/v1.9.1/FIT/HKMC_DEMO_CanToUart/main_program/build_nrf52840dk_nrf52840/mcuboot/zephyr/include/generated/pm.yml)
